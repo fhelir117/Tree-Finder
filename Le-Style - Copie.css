@@ -1,0 +1,31 @@
+
+
+
+HTML/
+
+
+<img src="LogoDetourer.png" id="Logo2" class="Logo">
+
+CSS
+
+#Logo2 {
+    position: absolute;
+    top: 280px;
+    height: 140px;
+    left: 550px;
+
+HTML 
+
+<div><img src="PP.jpg" id="exemple" class="exemple"></div>
+
+CSS
+
+exemple {
+    position: absolute;
+    top: 1800px;
+    height: 500px;
+    left: 0px;
+    opacity: 0.5;
+
+
+}
